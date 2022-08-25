@@ -4,10 +4,10 @@
          "select_main_ads":"ADMOB",
          "select_backup_ads":"APPLOVIN-M",
 
-         "main_ads_banner":"",
-         "main_ads_intertitial":"",
-         "main_native_ads_Admob_or_applovin":"",
-         "main_ads_rewards":"",
+         "main_ads_banner":"ca-app-pub-2206368840768261/9253921640",
+         "main_ads_intertitial":"ca-app-pub-2206368840768261/7940839973",
+         "main_native_ads_Admob_or_applovin":"ca-app-pub-2206368840768261/6627758308",
+         "main_ads_rewards":"ca-app-pub-2206368840768261/7280959459",
 
          "backup_ads_banner":"6198528708a348fd",
          "backup_ads_intertitial":"9b60df79e189b68d",
@@ -27,104 +27,112 @@
          "initialize_sdk":"null",
          "initialize_sdk_backup_ads":"null",
 
-         "high_paying_keyword_1": "insurance",
-         "high_paying_keyword_2": "property",
-         "high_paying_keyword_3": "finance",
-         "high_paying_keyword_4": "sport",
-         "high_paying_keyword_5": "loans",
+         "high_paying_keyword_1":"insurance",
+         "high_paying_keyword_2":"property",
+         "high_paying_keyword_3":"finance",
+         "high_paying_keyword_4":"lawyer",
+         "high_paying_keyword_5":"credit",
 
          "status_app":"0",
-         "link_redirect":"https://",
+         "link_redirect":"https://play.google.com",
+
+         "email_info":"suhudesaandro@gmail.com",
 
          "category_optional":"1",
          "moreapp_optional":"1",
 
-         "link_moreapp":"https://play.google.com/store/apps/developer?id=suhudesa",
-
-         "index": 8,
-         "native_interval": 8
+         "link_moreapp":"https://play.google.com/store/apps/developer?id=suhudesa"
       }
    ],
+
    "More":[
      {
-       "id":1,
-       "title":"BTS - Jungkook Wallpaper",
-       "image":"https://play-lh.googleusercontent.com/GHcZEVv-7w50LcsiRtVCR2jgcN5uidLjbZ5MOxYApf1gmoFyWK9nkKWRyvYgipy2GsM=s180-rw",
-       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.btsjungkookwallpaper"
-     },
-     {
-       "id":2,
-       "title":"BTS – V Kim Taehyung",
-       "image":"https://play-lh.googleusercontent.com/0oe9Ewv6CXihiRn_4ZUVGA-m3gkGp62VNKoOc42jEz6_7sxttJZHslrZfbIajSJ17g=s180-rw",
-       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.btsvkimtaehyungwallpaper"
-     },
-     {
-       "id":3,
+       "id":14,
        "title":"Niqab Wallpaper",
-       "image":"https://play-lh.googleusercontent.com/VVJoSdrJvDbs_dF6zSHEtwEX3yeIpJLnaSNA6aJdByjFhGvbxM2WujWClT9GhuNTEsk=s180-rw",
+       "image":"https://play-lh.googleusercontent.com/VVJoSdrJvDbs_dF6zSHEtwEX3yeIpJLnaSNA6aJdByjFhGvbxM2WujWClT9GhuNTEsk=w480-h960",
        "link":"https://play.google.com/store/apps/details?id=com.suhudesa.niqabwallpaper"
      },
      {
-       "id":4,
+       "id":13,
        "title":"Kartun Muslimah Wallpaper",
-       "image":"https://play-lh.googleusercontent.com/kCiT7D6Jv9w1fzU6LVQixO-i9ghWpO7iBxtQ_cakbZ5oKYVwmiMh0y-tX5k1rlPyhff-=s180-rw",
+       "image":"https://play-lh.googleusercontent.com/kCiT7D6Jv9w1fzU6LVQixO-i9ghWpO7iBxtQ_cakbZ5oKYVwmiMh0y-tX5k1rlPyhff-=w480-h960",
        "link":"https://play.google.com/store/apps/details?id=com.suhudesa.kartunmuslimahwallpaper"
      },
      {
-       "id":5,
-       "title":"Wallpaper GTR",
-       "image":"https://play-lh.googleusercontent.com/LTCMWdqnHCAck8n4nzfpZ7r9pqEhKRqaeJow2FEUEZKdiV05mXaLQ9IGuSeXGX8KI-M=s180-rw",
-       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.gtrwallpaper"
-     },
-     {
-       "id":6,
-       "title":"Blackpink Wallpaper",
-       "image":"https://play-lh.googleusercontent.com/KW0scis8zYxu_Dhpa2urhJdlYemVzPS9ZBGAzVIooLGQIf0mOr40PrmT074yn48Z64zO=s180-rw",
-       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.blackpinkwallpaper"
-     },
-     {
-       "id":7,
-       "title":"Wallpaper Anime Girl",
-       "image":"https://play-lh.googleusercontent.com/rcAseh479VWGdT0MKBgJzLQQ1a8ZNHLd3t3cU_qUWi7LyRYW2k7tBW3XTQ9wDVa0Ql_f=s180-rw",
+       "id":12,
+       "title":"Anime Wallpaper",
+       "image":"https://play-lh.googleusercontent.com/E5HIgnWesJ_vE383KQoTV8fA5IFf5Euc6QRrSFAYlk0w9Bvby7ZIXnN2l4gQuIHW6uU=w480-h960",
        "link":"https://play.google.com/store/apps/details?id=com.suhudesa.animegirlwallpaper"
      },
      {
-       "id":8,
-       "title":"Anime Wallpaper",
-       "image":"https://play-lh.googleusercontent.com/7Bv37kqAeJmd33u97TA3KSDeys6BM1sNuTumASHmHUI0DGwmwT-ksDRhWE-pBmeQhGI=s180-rw",
-       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.animewallpaper"
-     },
-     {
-       "id":9,
-       "title":"Wallpaper Bart Art HD",
-       "image":"https://play-lh.googleusercontent.com/i3pZFQG00uBUWtNiSARAvi4aZxn8JSrG2gs32KOa55ZnS5-F7OgHD71x3Fc3UIXV7vE=s180-rw",
-       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.bartartwallpaper"
+       "id":11,
+       "title":"BTS - Jungkook Wallpaper",
+       "image":"https://play-lh.googleusercontent.com/GHcZEVv-7w50LcsiRtVCR2jgcN5uidLjbZ5MOxYApf1gmoFyWK9nkKWRyvYgipy2GsM=w480-h960",
+       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.btsjungkookwallpaper"
      },
      {
        "id":10,
+       "title":"Blackpink Wallpaper",
+       "image":"https://play-lh.googleusercontent.com/gIZbwgUGQpc6UOOfA9QYPCVtREH0GuFZXQeaIw6tFX_U6CldYEmox7V7yC8r0l2CVg=w480-h960",
+       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.animegirlwallpaper"
+     },
+     {
+       "id":9,
+       "title":"Messi Wallpaper HD",
+       "image":"https://play-lh.googleusercontent.com/2afrtInR80H_tPHNFMivRvO8oQqmw_xmMMoPM65jJJRgpOeOQWRHQI8o8mZUeIcHSw=w480-h960",
+       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.messiwallpaperhd"
+     },
+     {
+       "id":8,
+       "title":"Wallpaper Kawaii HD",
+       "image":"https://play-lh.googleusercontent.com/vXPpAd54GsKY4B1TlQclc9XZB22wV1MWQX9TxejndNJfnIZWHYtc3QvgE8MZiB4quAQ=w480-h960",
+       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.kawaiiwallpaperhd"
+     },
+     {
+       "id":7,
        "title":"Wallpaper Muslimah Offline",
-       "image":"https://play-lh.googleusercontent.com/kgYYl9UBbwuw4dmyf_mBvoVz2fJCLXf8HeMGSQCfeMWqLRuOzpRBZQakcWvvd8_XCw=s180-rw",
+       "image":"https://play-lh.googleusercontent.com/kgYYl9UBbwuw4dmyf_mBvoVz2fJCLXf8HeMGSQCfeMWqLRuOzpRBZQakcWvvd8_XCw=w480-h960",
        "link":"https://play.google.com/store/apps/details?id=com.suhudesa.wallpapermuslimahoffline"
      },
      {
-       "id":11,
-       "title":"Ramadhan Wallpaper",
-       "image":"https://play-lh.googleusercontent.com/x2Tkgt3ER_uWCwlCRSKgLzRX8wFN8RvxqQK69PAsiQBuSO-SmVob8GICab_43DA-nWA=s180-rw",
-       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.ramadhanwallpaper"
+       "id":6,
+       "title":"Wallpaper Bart Art HD",
+       "image":"https://play-lh.googleusercontent.com/i3pZFQG00uBUWtNiSARAvi4aZxn8JSrG2gs32KOa55ZnS5-F7OgHD71x3Fc3UIXV7vE=w480-h960",
+       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.bartartwallpaper"
      },
      {
-       "id":12,
+       "id":5,
+       "title":"Wallpaper Anime Girl",
+       "image":"https://play-lh.googleusercontent.com/ommxqrwlI9KnERZMfl9uX6z7AF63QMCYWOQRtRDmSI9Ba8SBWj0_gLdpW7jP9LsfEzg=w480-h960",
+       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.animegirlwallpaper"
+     },
+     {
+       "id":4,
+       "title":"Wallpaper Samurai",
+       "image":"https://play-lh.googleusercontent.com/4p-NB64DijWo5rgTEAyRVvp-3cf5xSbrZ43UKqI1gzLnpPTRA1WK-BowB5N8WFMkha6O=w480-h960",
+       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.samuraiwallpaper"
+     },
+     {
+       "id":3,
+       "title":"Wallpaper GTR",
+       "image":"https://play-lh.googleusercontent.com/LTCMWdqnHCAck8n4nzfpZ7r9pqEhKRqaeJow2FEUEZKdiV05mXaLQ9IGuSeXGX8KI-M=w480-h960",
+       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.gtrwallpaper"
+     },
+     {
+       "id":2,
        "title":"Wallpaper Hitam",
-       "image":"https://play-lh.googleusercontent.com/WSeHPyn9vDAmb516Tfly_tyuAL0yrIZqpr9WPDiDmdz5zzHPWxWFHcbkhzcX_GFjnw=s180-rw",
+       "image":"https://play-lh.googleusercontent.com/WSeHPyn9vDAmb516Tfly_tyuAL0yrIZqpr9WPDiDmdz5zzHPWxWFHcbkhzcX_GFjnw=w480-h960",
        "link":"https://play.google.com/store/apps/details?id=com.suhudesa.blackwallpaper"
      },
      {
-       "id":13,
-       "title":"Wallpaper Samurai",
-       "image":"https://play-lh.googleusercontent.com/4p-NB64DijWo5rgTEAyRVvp-3cf5xSbrZ43UKqI1gzLnpPTRA1WK-BowB5N8WFMkha6O=s180-rw",
-       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.samuraiwallpaper"
+       "id":1,
+       "title":"Ramadhan Wallpaper",
+       "image":"https://play-lh.googleusercontent.com/x2Tkgt3ER_uWCwlCRSKgLzRX8wFN8RvxqQK69PAsiQBuSO-SmVob8GICab_43DA-nWA=w480-h960",
+       "link":"https://play.google.com/store/apps/details?id=com.suhudesa.ramadhanwallpaper"
      }
+
    ],
+
   "Categories":[
     {
       "id":76,
@@ -507,6 +515,7 @@
       "image":"https://i.pinimg.com/564x/50/13/40/50134052bda03c04908bab74c81e694e.jpg"
     }
   ],
+  
   "Data":[
     {
       "id":1154,
